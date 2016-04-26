@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Carolyn Scanlon]]></title>
         <description><![CDATA[Carolyn Scanlon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carolyn-scanlon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 10:33:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 10:48:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carolyn-scanlon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About ]]></title>
+            <description><![CDATA[<p>I'm Carolyn. I'm at this weird point in my life that feels like I'm about half way through, and statistically I am (well, just over, to be accurate). Half way rings true for me as I embark on my project of self-renewal, being 44, with an 88 year old father and a 4 year old daughter. I've also been granted the dubious blessing of early menopause, which kind of underlines the transitional nature of this time in my life.</p>]]></description>
+            <link>https://thegrid.ai/carolyn-scanlon/about/index.html</link>
+            <guid isPermaLink="false">23474344-e2a9-4cee-87ed-859d0cdf37b0</guid>
+            <pubDate>Tue, 26 Apr 2016 10:48:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I'm Carolyn. I'm at this weird point in my life that feels like I'm about half way through, and statistically I am (well, just over, to be accurate). Half way rings true for me as I embark on my project of self-renewal, being 44, with an 88 year old father and a 4 year old daughter. I've also been granted the dubious blessing of early menopause, which kind of underlines the transitional nature of this time in my life.</p>]]></description>
-            <link>undefinedim-carolyn-im-at-this-weird-point-in-my-life-that-feels-l/index.html</link>
+            <link>https://thegrid.ai/carolyn-scanlon/im-carolyn-im-at-this-weird-point-in-my-life-that-feels-l/index.html</link>
             <guid isPermaLink="false">0435faca-5798-4f38-b264-da1a733e47a3</guid>
             <pubDate>Tue, 26 Apr 2016 10:33:55 GMT</pubDate>
         </item>
